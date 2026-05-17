@@ -1,103 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=260&section=header&text=Yashika%20Shrivastava&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# ✨ Yashika Shrivastava ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=✨+Full-Stack+Developer;🚀+AI+%26+Fashion+Tech+Builder;💻+Creating+Elegant+Digital+Experiences;🎓+CSE+Student+@+VIT+Bhopal;🌸+Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+💻;AI+%26+Fashion+Tech+Builder+🚀;CSE+Student+@+VIT+Bhopal+🎓;Building+Ideas+Into+Reality+✨" />
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Yashikashrivastava30">
-  <img src="https://img.shields.io/badge/GitHub-Profile-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://venyoraa.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Yashikashrivastava30&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 🌸 About Me
+# 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-✨ Passionate about building elegant digital products  
+✨ Passionate about building elegant digital experiences  
 🚀 Exploring the intersection of **AI, Fashion & Technology**  
-💻 Full-Stack Developer focused on polished user experiences  
-🎯 Building impactful projects, startups & real-world solutions  
+💻 Full-Stack Developer skilled in modern web technologies  
+🎯 Focused on impactful projects, internships & startups  
 🌱 Currently learning **DSA, Cloud & System Design**  
-
-### 🌷 Current Projects
-- 🛍️ **Venyora** — Fashion E-Commerce Platform
-- 🤖 **VIRA** — AI Voice Interactive Assistant
-- 🎤 **KaamSetGo** — AI Job Match Platform
+🛍️ Creator of **Venyora — Fashion E-Commerce Platform**  
+🤖 Building projects like **VIRA** & **KaamSetGo**
 
 <br><br>
 
 ---
 
-# 🤖 AI Assistant Ecosystem
+# 🌸 Connect With Me
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 VIRA AI
-
-🎙️ Voice-Based Assistant  
-⚡ Python + C++ Integration  
-🧠 API Automation  
-
-<a href="YOUR_VIRA_REPO">
-<img src="https://img.shields.io/badge/View_Project-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</td>
-
-<td align="center" width="33%">
-
-### 🎤 KaamSetGo
-
-🌍 AI Resume Builder  
-🗣️ Regional Languages  
-🚀 Social Impact Platform  
-
-<a href="YOUR_KAAMSETGO_REPO">
-<img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</td>
-
-<td align="center" width="33%">
-
-### 🛍️ Venyora
-
-✨ Fashion Tech Platform  
-💳 Razorpay Integration  
-🛒 Elegant Shopping UI  
-
-<a href="YOUR_VENYORA_REPO">
-<img src="https://img.shields.io/badge/View_Project-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Yashikashrivastava30">
+  <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -116,24 +61,44 @@
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </div>
 
 ---
 
-# 🌌 Developer Dashboard
+# 🚀 Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashikashrivastava30&show_icons=true&theme=transparent&title_color=ff69b4&text_color=ffffff&icon_color=8A2BE2&hide_border=true&bg_color=0D1117"/>
+| 🌟 Project | 💡 Description |
+|------------|----------------|
+| 🛍️ **Venyora** | Fashion E-Commerce Platform with Razorpay, Wishlist, Cart & Admin Dashboard |
+| 🤖 **VIRA** | AI Voice Interactive Response Assistant integrating Python & C++ |
+| 🎤 **KaamSetGo** | AI Voice Resume & Job Match Platform for informal workers |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashikashrivastava30&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffffff&hide_border=true&bg_color=0D1117"/>
+</div>
 
-<br><br>
+---
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Yashikashrivastava30&theme=transparent&hide_border=true&background=0D1117&ring=ff69b4&fire=8A2BE2&currStreakLabel=ff69b4"/>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashikashrivastava30&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashikashrivastava30&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yashikashrivastava30&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -143,37 +108,17 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
 ---
 
-# 🌸 Fashion × AI × Technology
+# 🌷 A Little Quote I Believe In
 
 <div align="center">
 
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=120&section=header&text=Building%20The%20Future%20With%20Code%20✨&fontSize=32&fontColor=ffffff"/>
-
-</div>
-
----
-
-# 🌷 Developer Philosophy
-
-<div align="center">
-
-### ✨ “Code with creativity. Build with elegance. Innovate with purpose.” ✨
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yashikashrivastava30&theme=radical&no-frame=true&row=1&column=6"/>
+> *"Build beautifully. Learn endlessly. Dream fearlessly."* ✨
 
 </div>
 
@@ -181,6 +126,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=140&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=Yashikashrivastava30&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 </div>
