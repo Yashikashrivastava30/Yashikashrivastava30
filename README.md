@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=220&section=header&text=Yashika%20Shrivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=230&section=header&text=Yashika%20Shrivastava&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=FF69B4&center=true&vCenter=true&width=850&lines=✨+Full-Stack+Developer;🚀+AI+%26+Fashion+Tech+Builder;💻+Creating+Elegant+Digital+Experiences;🌸+CSE+Student+@+VIT+Bhopal;🎯+Future+Founder+%26+Tech+Creator"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=✨+Full-Stack+Developer;🚀+AI+%26+Fashion+Tech+Builder;💻+Creating+Elegant+Digital+Experiences;🎓+CSE+Student+@+VIT+Bhopal;🌸+Turning+Ideas+Into+Reality" />
 
 <br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Mail%20Me-8a2be2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Mail_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Yashikashrivastava30">
-<img src="https://img.shields.io/badge/GitHub-Profile-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://venyoraa.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8a2be2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Yashikashrivastava30&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Yashikashrivastava30&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
 
@@ -32,21 +32,15 @@
 
 # 🌸 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-✨ Hi, I'm **Yashika**, a passionate developer focused on building elegant and impactful digital products.
-
-💻 I enjoy combining **technology, creativity & design** to create polished user experiences.
-
-🚀 Currently exploring:
-- Full-Stack Development
-- AI-powered Applications
-- Fashion Tech
-- Scalable Systems
-- Startup Building
-
-🌷 I believe great products should feel:
-> **Beautiful, smooth, intelligent & meaningful.**
+✨ Passionate about building polished and impactful digital products  
+🚀 Exploring the intersection of **AI, Fashion & Technology**  
+💻 Full-Stack Developer focused on modern web experiences  
+🎯 Working towards impactful internships & startup building  
+🌱 Currently learning **DSA, Cloud & System Design**  
+🛍️ Creator of **Venyora — Fashion E-Commerce Platform**  
+🤖 Building innovative projects like **VIRA** & **KaamSetGo**
 
 <br><br>
 
@@ -73,7 +67,7 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 </div>
@@ -93,7 +87,7 @@
 Fashion E-Commerce Platform with:
 
 ✨ Razorpay Integration  
-🛒 Wishlist & Cart  
+🛒 Wishlist & Cart System  
 🔐 JWT Authentication  
 📦 Admin Dashboard  
 
@@ -103,12 +97,12 @@ Fashion E-Commerce Platform with:
 
 ### 🤖 VIRA
 
-AI Voice Assistant built using:
+AI Voice Interactive Assistant using:
 
 ⚡ Python + C++  
-🎙️ Voice Interaction  
+🎙️ Voice Automation  
 🔗 API Integration  
-🧠 Smart Automation  
+🧠 Smart Interactions  
 
 </td>
 
@@ -116,12 +110,12 @@ AI Voice Assistant built using:
 
 ### 🎤 KaamSetGo
 
-AI-powered platform for:
+AI-powered platform featuring:
 
-🌍 Informal Workers  
-🎧 Voice Resumes  
-🗣️ Regional Languages  
-💡 Job Matching  
+🌍 Voice Resume System  
+🎧 Regional Language Support  
+💡 AI Job Matching  
+🚀 Social Impact Innovation  
 
 </td>
 </tr>
@@ -147,35 +141,21 @@ AI-powered platform for:
 
 ---
 
-# 🌟 Current Goals
+# 🐍 Contribution Snake
 
 <div align="center">
 
-✨ Build impactful AI products  
-🚀 Secure top software internships  
-💻 Master DSA & System Design  
-🌸 Create a strong tech brand  
-🎯 Build scalable startups  
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+# 🌷 Developer Philosophy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 💫 Developer Philosophy
-
-<div align="center">
-
-### ✨ “Create products that people remember — not just use.” ✨
+### ✨ *"Build beautifully. Learn endlessly. Dream fearlessly."*
 
 </div>
 
@@ -183,6 +163,14 @@ AI-powered platform for:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=140&section=footer"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yashikashrivastava30&theme=radical&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=130&section=footer"/>
 
 </div>
