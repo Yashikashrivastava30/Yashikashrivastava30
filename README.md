@@ -1,14 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Yashika%20Shrivastava&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=220&section=header&text=Yashika%20Shrivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=F78DA7&center=true&vCenter=true&width=850&lines=✨+Full-Stack+Developer;🚀+AI+%26+Fashion+Tech+Builder;💻+Turning+Ideas+Into+Real+Products;🌸+Building+Elegant+Digital+Experiences;🎯+Future+Founder+%26+Tech+Creator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=FF69B4&center=true&vCenter=true&width=850&lines=✨+Full-Stack+Developer;🚀+AI+%26+Fashion+Tech+Builder;💻+Creating+Elegant+Digital+Experiences;🌸+CSE+Student+@+VIT+Bhopal;🎯+Future+Founder+%26+Tech+Creator"/>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/Yashikashrivastava30?style=for-the-badge&color=ff69b4&labelColor=1a1b27"/>
-<img src="https://img.shields.io/github/stars/Yashikashrivastava30?style=for-the-badge&color=ff69b4&labelColor=1a1b27"/>
-<img src="https://komarev.com/ghpvc/?username=Yashikashrivastava30&style=for-the-badge&color=ff69b4"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mail%20Me-8a2be2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yashikashrivastava30">
+<img src="https://img.shields.io/badge/GitHub-Profile-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://venyoraa.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8a2be2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Yashikashrivastava30&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
 
@@ -16,29 +32,49 @@
 
 # 🌸 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFwYW1rNnQ4d3BzN3h3eGQwZDBnYzI3dHhmMndnM3V2ZjI0dW1zdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-✨ Hi, I'm **Yashika**, a passionate developer who loves creating impactful digital products.  
-💻 I enjoy blending **technology, creativity & design** to build elegant user experiences.  
-🚀 Currently exploring the worlds of **AI, Full-Stack Development & Startups**.  
-🌷 I believe great products are built with both **logic and aesthetics**.  
+✨ Hi, I'm **Yashika**, a passionate developer focused on building elegant and impactful digital products.
 
-### 🌟 Current Focus
-- 🛍️ Building **Venyora** — Fashion E-Commerce Platform
-- 🤖 Developing AI-based projects like **VIRA**
-- 🎤 Working on **KaamSetGo**
-- 📚 Practicing **DSA & System Design**
-- ☁️ Learning **Cloud & Scalable Architectures**
+💻 I enjoy combining **technology, creativity & design** to create polished user experiences.
 
-<br>
+🚀 Currently exploring:
+- Full-Stack Development
+- AI-powered Applications
+- Fashion Tech
+- Scalable Systems
+- Startup Building
+
+🌷 I believe great products should feel:
+> **Beautiful, smooth, intelligent & meaningful.**
+
+<br><br>
 
 ---
 
-# 💫 Tech Universe
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,firebase,figma,postman&perline=6" />
+### 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,mysql" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
 </div>
 
@@ -50,45 +86,42 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-## 🛍️ Venyora
-✨ Fashion E-Commerce Platform  
-💳 Razorpay Integration  
-🛒 Wishlist & Cart System  
+### 🛍️ Venyora
+
+Fashion E-Commerce Platform with:
+
+✨ Razorpay Integration  
+🛒 Wishlist & Cart  
 🔐 JWT Authentication  
 📦 Admin Dashboard  
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-## 🤖 VIRA
-🎙️ AI Voice Assistant  
-⚡ Python + C++ Integration  
-🧠 API Automation  
-🔊 Smart Voice Interactions  
+### 🤖 VIRA
 
-</td>
-</tr>
+AI Voice Assistant built using:
 
-<tr>
-<td width="50%">
-
-## 🎤 KaamSetGo
-🌍 AI Job Match Platform  
-🎧 Voice Resume System  
-🗣️ Regional Language Support  
-💡 Social Impact Innovation  
+⚡ Python + C++  
+🎙️ Voice Interaction  
+🔗 API Integration  
+🧠 Smart Automation  
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-## 🚀 More Coming Soon
-✨ Building More AI & Web Projects  
-🌸 Always Learning & Improving  
-💻 Creating Tech With Elegance  
+### 🎤 KaamSetGo
+
+AI-powered platform for:
+
+🌍 Informal Workers  
+🎧 Voice Resumes  
+🗣️ Regional Languages  
+💡 Job Matching  
 
 </td>
 </tr>
@@ -102,25 +135,33 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashikashrivastava30&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yashikashrivastava30&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashikashrivastava30&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashikashrivastava30&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Yashikashrivastava30&theme=radical&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🌟 Current Goals
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Yashikashrivastava30&theme=radical&hide_border=true&background=0D1117"/>
+✨ Build impactful AI products  
+🚀 Secure top software internships  
+💻 Master DSA & System Design  
+🌸 Create a strong tech brand  
+🎯 Build scalable startups  
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <div align="center">
 
@@ -130,35 +171,11 @@
 
 ---
 
-# 🌐 Connect With Me
+# 💫 Developer Philosophy
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Yashikashrivastava30">
-<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://venyoraa.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ✨ Developer Philosophy
-
-<div align="center">
-
-### 💭 *"Code with creativity. Build with purpose. Design with elegance."*
+### ✨ “Create products that people remember — not just use.” ✨
 
 </div>
 
@@ -166,14 +183,6 @@
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31v6f5s7m3xw4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8a2be2&height=140&section=footer"/>
 
 </div>
