@@ -1,108 +1,135 @@
-<h1 align="center">Hi 👋, I'm Yashika Shrivastava</h1>
-<h3 align="center">🚀 Full-Stack Developer | CSE Student @ VIT Bhopal | Aspiring Entrepreneur</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+Fashion+Tech+Builder;C%2B%2B+%7C+React+%7C+Node.js;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
+# ✨ Yashika Shrivastava ✨
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+💻;AI+%26+Fashion+Tech+Builder+🚀;CSE+Student+@+VIT+Bhopal+🎓;Building+Ideas+Into+Reality+✨" />
 
-## 👩‍💻 About Me
+<br>
 
-- 🎓 Computer Science Engineering Student at **VIT Bhopal**
-- 💻 Passionate about **Full-Stack Development & AI**
-- 🛍️ Building **Venyora** — Fashion E-Commerce Platform
-- 🤖 Developing projects like **VIRA** & **KaamSetGo**
-- 🌱 Currently learning **DSA, Cloud & System Design**
-- 🎯 Goal: Secure top internships & build impactful startups
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 💫 About Me
 
-<p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+✨ Passionate about building elegant digital experiences  
+🚀 Exploring the intersection of **AI, Fashion & Technology**  
+💻 Full-Stack Developer skilled in modern web technologies  
+🎯 Focused on impactful projects, internships & startups  
+🌱 Currently learning **DSA, Cloud & System Design**  
+🛍️ Creator of **Venyora — Fashion E-Commerce Platform**  
+🤖 Building projects like **VIRA** & **KaamSetGo**
+
+<br><br>
+
+---
+
+# 🌸 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
+  <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Yashikashrivastava30" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+<a href="https://github.com/Yashikashrivastava30">
+  <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
+<div align="center">
+
 ### 🚀 Languages
-
-<p>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,mysql" />
-</p>
 
-### 🎨 Frontend Development
-
-<p>
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
 
-### ⚙️ Backend Development
-
-<p>
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
 
-### 🛠️ Tools & Platforms
-
-<p>
+### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛍️ Venyora
-Fashion E-Commerce Platform with authentication, wishlist, cart, Razorpay integration & admin dashboard.
+<div align="center">
 
-## 🤖 VIRA
-AI-powered Voice Interactive Response Assistant integrating APIs with Python & C++.
+| 🌟 Project | 💡 Description |
+|------------|----------------|
+| 🛍️ **Venyora** | Fashion E-Commerce Platform with Razorpay, Wishlist, Cart & Admin Dashboard |
+| 🤖 **VIRA** | AI Voice Interactive Response Assistant integrating Python & C++ |
+| 🎤 **KaamSetGo** | AI Voice Resume & Job Match Platform for informal workers |
 
-## 🎤 KaamSetGo
-AI voice-based resume & job matching platform for informal workers.
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yashikashrivastava30&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashikashrivastava30&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashikashrivastava30&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashikashrivastava30&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Yashikashrivastava30&theme=tokyonight" alt="streak"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yashikashrivastava30&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
 
-# ✨ Fun Fact
+# 🐍 Contribution Snake
 
-💡 *I love building real-world projects that combine technology, creativity & problem-solving.*
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashikashrivastava30&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
+# 🌷 A Little Quote I Believe In
+
+<div align="center">
+
+> *"Build beautifully. Learn endlessly. Dream fearlessly."* ✨
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Yashikashrivastava30&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+
+</div>
