@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a href="www.linkedin.com/in/yashika-shrivastava-230300304">
+<a href="https://www.linkedin.com/in/yashika-shrivastava-230300304/">
   <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
